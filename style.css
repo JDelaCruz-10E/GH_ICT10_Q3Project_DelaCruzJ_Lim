@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+    background-image: url("bg.jpg");
+}
+
+#main {
+    background-color: white;
+    width: 25%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 40px;
+}
+
+#teams {
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 40px;
+}
+
+#players {
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 40px;
+}
+
+#player_lists {
+    width: 100%;
+    background-color: rgb(227, 64, 113);
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#navbar {
+    background-color: aliceblue;
+}
+
+#btn {
+    width: 100%;
+    background-color: rgb(227, 64, 113);
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#username {
+    width: 100%;
+}
+
+#password {
+    width: 100%;
+}
+
+#reg {
+    width: 100%;
+}
+
+#cert {
+    width: 100%;
+}
+
+#grade {
+    width: 100%;
+}
+
+#section {
+    width: 100%;
+}
+
+#btn2 {
+    width: 100%;
+}
